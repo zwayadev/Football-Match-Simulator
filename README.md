@@ -10,6 +10,8 @@ Football Match Simulator is a open-source free program that simulates football m
 1) After you open the program you will have to enter names of your teams that are playing
 2) Press enter and VIOLA! The match is starting!
 
+   **YOU MUST KEEP allmatches.txt and lastmatch.txt in the same folder as the .exe otherwise the program might crash upon completion**
+
 
 *Explanation of the program:*
 --------------------------------------------------------
