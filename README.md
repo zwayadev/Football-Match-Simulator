@@ -12,7 +12,7 @@ Football Match Simulator is a open-source free program that simulates football m
 
 
 *Explanation of the program:*
-"=============================="      //The scoreboard with it's contents
+"=============================="      
 ||TEAM 1 0 - 0 TEAM 2 || 0:00 ||      //TEAM 1/TEAM 2 = *Names of teams* | 0-0 = *Current result*
 "=============================="      //0:00 = *Current time*
 Some text under that refreshes every minute //*Match event*
