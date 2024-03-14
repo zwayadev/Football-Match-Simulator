@@ -1,0 +1,5 @@
+- Added Half Time (10 real-time seconds)
+- Added Half Time stats
+- Fixed the bug that makes a "Team 2 player score a freekick for Team 1"
+- Enchanced UI Design
+- Fixed match rating at the end of the match (All players had the rating of 7.5)
